@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mixmax",
+    "budget_name": "Software Subscription",
+    "owner_name": "Rajesh",
+    "owner_id": 1,
+    "spent": {
+      "value": 100,
+      "currency": "SGD"
+    },
+    "available_to_spend": {
+      "value": 1000,
+      "currency": "SGD"
+    },
+    "card_type": "Burner",
+    "expiry": "9 Feb 2023",
+    "limit": 100,
+    "status": "active"
+  },
+  {
+    "name": "Motion",
+    "budget_name": "Software Subscription",
+    "owner_name": "Rajat",
+    "owner_id": 2,
+    "spent": {
+      "value": 50,
+      "currency": "USD"
+    },
+    "available_to_spend": {
+      "value": 1000,
+      "currency": "USD"
+    },
+    "card_type": "Subscription",
+    "expiry": "28 March 2023",
+    "limit": 100,
+    "status": "active"
+  }
+]
