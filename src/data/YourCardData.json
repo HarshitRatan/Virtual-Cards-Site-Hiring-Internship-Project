@@ -34,5 +34,41 @@
     "expiry": "28 March 2023",
     "limit": 100,
     "status": "active"
+  },
+  {
+    "name": "Xero",
+    "budget_name": "Software Subscription",
+    "owner_name": "Mayank_1",
+    "owner_id": 5,
+    "spent": {
+      "value": 0,
+      "currency": "SGD"
+    },
+    "available_to_spend": {
+      "value": 1000,
+      "currency": "SGD"
+    },
+    "card_type": "Burner",
+    "expiry": "16 July 2024",
+    "limit": 500,
+    "status": "active"
+  },
+  {
+    "name": "Mookambika",
+    "budget_name": "Software Subscription",
+    "owner_name": "Rajan_1",
+    "owner_id": 6,
+    "spent": {
+      "value": 250,
+      "currency": "SGD"
+    },
+    "available_to_spend": {
+      "value": 1000,
+      "currency": "SGD"
+    },
+    "card_type": "Subscription",
+    "expiry": "18 Sept 2024",
+    "limit": 350,
+    "status": "active"
   }
 ]
