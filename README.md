@@ -1,10 +1,28 @@
-# Getting Started with Create React App
+### `Click Here For Live Demo : `
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Prerequisite`
 
-In the project directory, you can run:
+### `NodeJS and Create-React-App Installed on Your Local System.`
+
+To Install NodeJS Please Refer : https://nodejs.org/en/download/
+
+After Installing Node.js :- \
+Open Command Prompt(CMD) or Terminal and Run The Following Command To Install Create-React-App :
+
+### `npm i create-react-app` or `npm install create-react-app`
+
+If Any Problem Occurs Please Refer : https://www.npmjs.com/package/create-react-app/
+
+# Getting Started with Create-React-App
+
+First Download This Repository.
+
+Then, In the project directory, Run:
+
+### `npm install`
+
+To install Dependencies.(Mandatory Step)
 
 ### `npm start`
 
@@ -64,7 +82,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
